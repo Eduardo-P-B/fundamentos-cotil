@@ -9,3 +9,12 @@ Meu nome é **Eduardo Pires Batagliotti** sou *estudante de programação*
 - Sou bom em Fundamentos de Informática
 - [https://github.com/Eduardo-P-B/fundamentos-cotil]
 
+## Meu Primeiro Programa
+Abaixo tem um código que escreve no terminal do usuário a mensagem: "Olé, Mundo!"
+```
+#include <stdio.h>
+
+int main() {
+    printf("Olé, Mundo!\n");
+    return 0;
+}```
