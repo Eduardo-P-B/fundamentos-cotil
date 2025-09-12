@@ -18,3 +18,5 @@ int main() {
     printf("Olé, Mundo!\n");
     return 0;
 }```
+
+Participação: Miguel Mendes.
